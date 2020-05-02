@@ -12,7 +12,7 @@ This application is a polls app built with Django. It has a polls view as well a
     ```shell
     $ cd django-polls/
     ```
-1. [Install Django]()
+1. [Install Django](https://github.com/TrinityTerry/django-polls/blob/master/direction/install_django.md)
 1. Create Virtual Environemnt
     ```shell
     $ python3 -m venv ~/.virtualenvs/djangodev
